@@ -1,2 +1,3 @@
 # AI_Mate
-It is AI Assitant App 
+It is AI Assitant App made using Flutter 
+
